@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/streets"
+        android:title="@string/style_streets" />   //id string sesuaiin yang kalian buat di strings.xml
+    <item android:id="@+id/dark"
+        android:title="@string/style_dark" />
+    <item android:id="@+id/light"
+        android:title="@string/style_light" />
+    <item android:id="@+id/outdoors"
+        android:title="@string/style_outdoors" />
+    <item android:id="@+id/satellite"
+        android:title="@string/style_satellite" />
+    <item android:id="@+id/satellite_street"
+        android:title="@string/style_satellite_street" />
+</menu>

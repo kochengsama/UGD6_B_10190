@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GD6_Geolocation_B_10190</string>
+    <string name="mabox_Access_token">pk.eyJ1IjoiYm9iY2F0MTIzIiwiYSI6ImNrdW14OTB1NzN2dWsyb256ZWF5MG9zaDgifQ.eSHr2TCcbIGXbhJ0VezAVw</string>
+    <string name="user_location_permission_explaination">Apakah Boleh?</string>
+    <string name="user_location_not_granted">Ditolak Kalian Semua</string>
+    <string name="start_nav">Start Navigation</string>
+    <string name="style_outdoors">Outdoors</string>
+    <string name="style_satellite">Satellite</string>
+    <string name="style_satellite_street">Satellite Street</string>
+    <string name="style_streets">Streets</string>
+    <string name="style_dark">Dark</string>
+    <string name="style_light">Light</string>
+</resources>
